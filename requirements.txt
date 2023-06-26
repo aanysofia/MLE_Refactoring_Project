@@ -7,3 +7,4 @@ statsmodels
 scikit-learn
 scipy
 skops
+pydantic
