@@ -48,7 +48,7 @@ psql -h localhost -p 5432 -U postgres
 We already defined a database named `fastapi` in the env variables in the dockerfile. But we can also create the database using the following command:
 
 ```sql
-CREATE DATABASE fastapi;
+CREATE DATABASE KCfastapi;
 
 ## Creating the Table
 To create the table, we need to run the following command:
