@@ -1,6 +1,10 @@
 # Refactoring Project
 
-Please do not fork this repository, but use this repository as a template for your refactoring project. Make Pull Requests to your own repository even if you work alone and mark the checkboxes with an `x`, if you are done with a topic in the pull request message.
+ - Refactor the code into python files
+ - Build a pipeline for the data cleaning, feature engineering.
+ - Build a FastAPI app, that allows you to Create, Read, Update, and Delete houses to/from a database.
+ - Create a Dockerfile for the app.
+ - Run the app in a docker container.
 
 ## Project for today
 
